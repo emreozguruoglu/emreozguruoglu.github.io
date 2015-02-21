@@ -1,5 +1,22 @@
+b {font-size: 18px;}
+
 .no-margin{
 	margin: 0px;
+}
+
+.thumb {
+	border-radius: 9999px;
+	margin: 0 auto;
+	max-height:300px;
+}
+
+.myself {
+	font-size:18px;
+	padding:20px 0;
+}
+
+.info-container {
+	margin-bottom:20px;
 }
 
 .no-padding{
@@ -10,7 +27,7 @@
 	background-color: #222;
 	color: #fff;
 	margin-top: 50px;
-	padding-top: 50px; 
+	padding:25px 0;
 }
 
 .bottom-footer{
