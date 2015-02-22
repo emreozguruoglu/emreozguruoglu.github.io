@@ -59,3 +59,13 @@
 	color: #fff;
 	text-decoration: none;
 }
+
+#courses{
+	text-align: center;
+}
+
+#logo{
+	height: 100%;
+	margin-top: -3px;
+	margin-right: 5px;
+}
