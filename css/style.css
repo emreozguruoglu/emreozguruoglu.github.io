@@ -1,4 +1,15 @@
+.rssHeader a {
+	font-size:20px;
+	color: #666;
+}
 
+.rssBody ul{
+	padding: 0;
+}
+
+.rssBody ul li{
+	list-style: none;
+}
 
 .no-margin{
 	margin: 0px;
