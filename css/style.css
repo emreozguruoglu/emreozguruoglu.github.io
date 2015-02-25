@@ -75,8 +75,12 @@
 	text-align: center;
 }
 
-#logo{
-	height: 100%;
-	margin-top: -3px;
-	margin-right: 5px;
+#prebc{
+	background-color: #FFF171;
+	border: 3px solid #71B0FF;
+	padding-right: 15px;
+  	padding-left: 15px;
+  	margin-right: auto;
+ 	margin-left: auto;
 }
+
