@@ -83,3 +83,27 @@
   	margin-right: auto;
  	margin-left: auto;
 }
+
+#twitter{
+	color: #4099FF;
+}
+
+#facebook{
+	color: #3b5998;
+}
+
+#github{
+	color: gray;
+}
+
+#linkedin{
+	color: #4875B4;
+}
+
+#mail{
+	color: #C63D2D;
+}
+
+#instagram{
+	color: #4E433C;
+}
