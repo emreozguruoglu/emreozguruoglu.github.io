@@ -63,7 +63,7 @@
 }
 
 .footer-nav a{
-	color: #b2b2b2;
+	color: #FB8F66;
 }
 
 .footer-nav a:hover{
@@ -106,4 +106,23 @@
 
 #instagram{
 	color: #4E433C;
+}
+
+#navcontainer{
+	background-color: #CC3333;
+	color: #FB8F66;
+}
+
+#footer{
+	background-color: #CC3333;
+	color: #FB8F66;
+}
+}
+
+#container{
+	color: #FB8F66;
+}
+
+#navrright{
+	color: #FB8F66;
 }
