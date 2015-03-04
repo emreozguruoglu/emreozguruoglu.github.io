@@ -65,6 +65,9 @@
 .footer-nav a{
 	color: #FB8F66;
 }
+.navbar-default .navbar-nav li a{
+	color: #FB8F66;
+}
 
 .footer-nav a:hover{
 	color: #fff;
