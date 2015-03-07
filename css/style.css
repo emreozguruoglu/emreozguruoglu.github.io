@@ -76,6 +76,10 @@
 
 #courses{
 	text-align: center;
+	font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
+	border: double;
+	border-width: thick;
+	border-color: #A7A8A7;
 }
 
 
