@@ -74,13 +74,6 @@
 	text-decoration: none;
 }
 
-#courses{
-	text-align: center;
-	font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
-	border: double;
-	border-width: thick;
-	border-color: #A7A8A7;
-}
 
 
 #twitter{
@@ -128,4 +121,12 @@
 #site-footer{
 	background-color: #CC3333;
 	color: #FB8F66;
+}
+
+#courses{
+	text-align: center;
+	font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
+	border: double;
+	border-color: #9DA39E;
+	border-width: thick;
 }
