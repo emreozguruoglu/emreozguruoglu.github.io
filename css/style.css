@@ -1,0 +1,132 @@
+.rssHeader a {
+	font-size:20px;
+	color: #666;
+}
+
+.rssBody ul{
+	padding: 0;
+}
+
+.rssBody ul li{
+	list-style: none;
+}
+
+.no-margin{
+	margin: 0px;
+}
+
+.thumb {
+	border-radius: 9999px;
+	margin: 0 auto;
+	max-height:300px;
+}
+
+.myself {
+	font-size:18px;
+	padding:35px 0;
+}
+
+.info-container {
+	margin-bottom:20px;
+}
+
+.no-padding{
+	padding: 0px;
+}
+
+.site-footer{
+	background-color: #222;
+	color: #fff;
+	margin-top: 50px;
+	padding:25px 0;
+}
+
+.bottom-footer{
+	border-top: 1px solid #b2b2b2;
+	margin-top: 1px;
+	padding-top: 1px;
+	color: #b2b2b2;
+}
+
+.footer-nav{
+	text-align: right;
+	list-style: none;
+}
+
+.footer-nav li{
+	display: inline;
+}
+
+.footer-nav li:not(:first-child):before{
+	content: '|';
+	padding: 0px 10px;
+}
+
+.footer-nav a{
+	color: #FB8F66;
+}
+.navbar-default .navbar-nav li a{
+	color: #FB8F66;
+}
+
+.footer-nav a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+
+
+
+#twitter{
+	color: #4099FF;
+}
+
+#facebook{
+	color: #3b5998;
+}
+
+#github{
+	color: gray;
+}
+
+#linkedin{
+	color: #4875B4;
+}
+
+#mail{
+	color: #C63D2D;
+}
+
+#instagram{
+	color: #4E433C;
+}
+
+#navcontainer{
+	background-color: #CC3333;
+	color: #FB8F66;
+}
+
+#footer{
+	background-color: #CC3333;
+	color: #FB8F66;
+}
+
+#container{
+	color: #FB8F66;
+}
+
+#navrright{
+	color: #FB8F66;
+}
+
+#site-footer{
+	background-color: #CC3333;
+	color: #FB8F66;
+}
+
+#courses{
+	text-align: center;
+	font-family: "Helvetica Neue",Helvetica, Arial, sans-serif;
+	border: double;
+	border-color: #9DA39E;
+	border-width: thick;
+}
